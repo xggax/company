@@ -1,1 +1,1 @@
-Projeto de um site de portifólio de empresa feito em react, possuindo área administrativa.
+Projeto de um site de portifólio de empresa desenvolvido com React e Firebase, possuindo área administrativa.
